@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://github.com/ZJU-HeheFan">Group home</a> &nbsp;&middot;&nbsp; <a href="https://hehefan.github.io/">Hehe Fan</a> &nbsp;&middot;&nbsp; <a href="https://hehefan.github.io/publications/">Advisor publications</a> &nbsp;&middot;&nbsp; <a href="#contribute">Add a project</a></p>
 
-Welcome to our research archive! Explore **23 public projects** across vision, language models and agents, embodied intelligence, and scientific discovery. Each record brings together the paper, first author, research focus, and available resources.
+Welcome to our research archive! Explore **23 public projects** in computer vision, language models and agents, and AI for science. Each record brings together the paper, first author, research focus, and available resources.
 
 Projects remain in their original repositories. This collection includes work first-authored by group students or Hehe Fan, released before **1 October 2026**.
 
@@ -20,7 +20,7 @@ Projects remain in their original repositories. This collection includes work fi
 <td width="50%" valign="top"><strong><a href="#llms--agents">LLMs &amp; Agents</a></strong><br>Structured reasoning, research agents, post-training, and collaboration.<br><sub>6 projects</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong><a href="#embodied-ai">Embodied AI</a></strong><br>Task planning and agent coordination in interactive environments.<br><sub>Cross-reference to related work</sub></td>
+<td width="50%" valign="top"><strong><a href="#embodied-ai">Embodied AI</a></strong><br>Embodied perception and action.<br><sub>No indexed projects yet</sub></td>
 <td width="50%" valign="top"><strong><a href="#ai-for-science">AI for Science</a></strong><br>Protein modeling, molecular design, generative methods, and scientific instrumentation.<br><sub>7 projects</sub></td>
 </tr>
 </table>
@@ -264,7 +264,7 @@ Evolving scene-aware skills for agentic 3D spatial reasoning.
 
 ### [ACL 2024](https://aclanthology.org/2024.findings-acl.964/) &middot; VillagerAgent
 
-**First author:** Yubo Dong &nbsp;&middot;&nbsp; <sub>Embodied AI / Multi-Agent / Planning</sub>
+**First author:** Yubo Dong &nbsp;&middot;&nbsp; <sub>Multi-Agent / Planning</sub>
 
 Graph-based coordination of multi-agent task dependencies in Minecraft.
 
@@ -278,15 +278,7 @@ Graph-based coordination of multi-agent task dependencies in Minecraft.
 
 ## Embodied AI
 
-Planning and coordination in interactive environments. The project below is indexed under LLMs & Agents and linked here for discovery.
-
-### [ACL 2024](https://aclanthology.org/2024.findings-acl.964/) &middot; [VillagerAgent](#project-villageragent)
-
-**First author:** Yubo Dong &nbsp;&middot;&nbsp; <sub>Multi-Agent / Planning / Embodied AI</sub>
-
-Graph-based coordination of task dependencies for collaborating agents in Minecraft.
-
-[View the full project record](#project-villageragent) &nbsp;&middot;&nbsp; [Original repository](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework)
+No public projects are currently indexed in this direction.
 
 [Back to directions](#explore-by-direction)
 

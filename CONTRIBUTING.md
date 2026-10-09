@@ -6,6 +6,7 @@ Submit an issue or pull request with the project name, one-sentence description,
 - Include public work released before 1 October 2026. New organization projects belong in their own repositories.
 - Verify conference status from proceedings or an official conference page. Distinguish an earlier preprint from a later published version.
 - Inspect repository contents before labeling a link as code. State when only a README, project materials, or a dataset is available.
+- Classify work by its primary research contribution and author-confirmed focus. An interactive environment, planning task, or agent interface alone does not justify an Embodied AI label. VillagerAgent is indexed under LLMs & Agents with Multi-Agent / Planning tags.
 - Choose one primary category and use tags or cross-references for other directions. WAM remains unexpanded; do not infer project assignments from an Embodied AI tag.
 - Do not infer current group membership from a paper's author list.
 - Keep original repositories in place. Transfers require agreement from the owners and are not part of index maintenance.
