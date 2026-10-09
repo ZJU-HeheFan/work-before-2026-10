@@ -11,3 +11,17 @@ Submit an issue or pull request with the project name, one-sentence description,
 - Keep original repositories in place. Transfers require agreement from the owners and are not part of index maintenance.
 - Before modifying another repository's README, list the repository, insertion point and exact patch for approval.
 - Record the actual check date when updating resource status, and preserve valid contributions by other maintainers.
+
+## Record format
+
+Within each direction, place records in descending publication-year order. Use a linked venue/year before the project name, then the first author and research tags, a one-sentence summary, verified resource buttons, and a separate resource-status line. Use explicit project anchors for cross-references and retain existing category anchors.
+
+## Link back to the group
+
+Project maintainers may add:
+
+```markdown
+[Research group: ZJU-HeheFan](https://github.com/ZJU-HeheFan)
+```
+
+Changes to other project repositories still require their maintainers' approval.
