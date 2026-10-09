@@ -2,6 +2,7 @@
 
 Submit an issue or pull request with the project name, one-sentence description, research tags, paper year/venue, and verified resource links.
 
+- Include only work first-authored by a group student or Hehe Fan. Match the published author order to the maintainer-confirmed group roster; do not infer membership from coauthorship. Equal-first authorship requires an explicit paper footnote.
 - Include public work released before 1 October 2026. New organization projects belong in their own repositories.
 - Verify conference status from proceedings or an official conference page. Distinguish an earlier preprint from a later published version.
 - Inspect repository contents before labeling a link as code. State when only a README, project materials, or a dataset is available.
