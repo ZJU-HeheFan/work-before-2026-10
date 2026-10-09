@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://github.com/ZJU-HeheFan">Group home</a> &nbsp;&middot;&nbsp; <a href="https://hehefan.github.io/">Hehe Fan</a> &nbsp;&middot;&nbsp; <a href="https://hehefan.github.io/publications/">Advisor publications</a> &nbsp;&middot;&nbsp; <a href="#contribute">Add a project</a></p>
 
-Welcome to our research archive! Explore **23 public projects** in computer vision, language models and agents, and AI for science. Each record brings together the paper, first author, research focus, and available resources.
+Welcome to our research archive! Explore **23 public projects** in our research archive. Each record brings together the paper, first author, research focus, and available resources.
 
 Projects remain in their original repositories. This collection includes work first-authored by group students or Hehe Fan, released before **1 October 2026**.
 
@@ -21,11 +21,11 @@ Projects remain in their original repositories. This collection includes work fi
 </tr>
 <tr>
 <td width="50%" valign="top"><strong><a href="#embodied-ai">Embodied AI</a></strong><br>Embodied perception and action.<br><sub>No indexed projects yet</sub></td>
-<td width="50%" valign="top"><strong><a href="#ai-for-science">AI for Science</a></strong><br>Protein modeling, molecular design, generative methods, and scientific instrumentation.<br><sub>7 projects</sub></td>
+<td width="50%" valign="top"><strong><a href="#ai-for-science">AI for Science</a></strong><br>Protein modeling, molecular design, generative methods, and scientific instrumentation.<br><sub>6 projects</sub></td>
 </tr>
 </table>
 
-<sub>Projects are ordered newest first within each direction. Cross-direction tags connect related work without duplicating entries. Paper-only projects remain clearly marked.</sub>
+<sub>Projects are ordered newest first within each direction. Cross-direction tags connect related work without duplicating entries. Paper-only projects remain clearly marked. One general-method project is listed under <a href="#classification-pending">classification pending</a>.</sub>
 
 ---
 
@@ -304,20 +304,6 @@ Closed-loop LLM-guided inverse design of metal-organic frameworks for gas separa
 
 ---
 
-<a name="project-tr-cie"></a>
-
-### [arXiv 2026](https://arxiv.org/abs/2606.24140) &middot; TR-CIE
-
-**First author:** Feiyang Fu &nbsp;&middot;&nbsp; <sub>Generative Modeling</sub>
-
-Time-reparameterized cumulative-intensity extrapolation for sampling discrete flow models.
-
-[![2606.24140](https://img.shields.io/badge/arXiv-2606.24140-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.24140)
-
-<sub>Resources: Code release and conference acceptance not verified.</sub>
-
----
-
 <a name="project-spatiotemporal-photon-hit-suppression"></a>
 
 ### [arXiv 2026](https://arxiv.org/abs/2603.27727) &middot; Spatiotemporal photon-hit suppression
@@ -391,6 +377,30 @@ Transformer-style 3D point-list modeling applied to protein recognition.
 [Back to directions](#explore-by-direction)
 
 ---
+
+<a name="classification-pending"></a>
+
+## Classification pending
+
+This record is retained while its primary research direction is confirmed; this is a curation status, not an additional group research direction.
+
+<a name="project-tr-cie"></a>
+
+### [arXiv 2026](https://arxiv.org/abs/2606.24140) &middot; TR-CIE
+
+**Direction:** Pending author confirmation. The paper evaluates a general sampler on synthetic, text-generation and text-to-image tasks.
+
+**First author:** Feiyang Fu &nbsp;&middot;&nbsp; <sub>Generative Modeling / Discrete Flow Matching</sub>
+
+Time-reparameterized cumulative-intensity extrapolation for sampling discrete flow models.
+
+[![2606.24140](https://img.shields.io/badge/arXiv-2606.24140-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.24140)
+
+<sub>Resources: Code release and conference acceptance not verified.</sub>
+
+---
+
+<a name="contribute"></a>
 
 ## Contribute
 
