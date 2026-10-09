@@ -406,7 +406,9 @@ Time-reparameterized cumulative-intensity extrapolation for sampling discrete fl
 
 Help keep the archive useful and accurate. [Suggest a project](https://github.com/ZJU-HeheFan/work-before-2026-10/issues/new) or submit a pull request with the paper, first author, one-sentence summary, research tags, and verified resources.
 
-[Contribution guide](CONTRIBUTING.md) &nbsp;&middot;&nbsp; [New project template](https://github.com/ZJU-HeheFan/project-template) &nbsp;&middot;&nbsp; [Return to the research group](https://github.com/ZJU-HeheFan)
+Group members use an internal project template for new releases.
+
+[Contribution guide](CONTRIBUTING.md) &nbsp;&middot;&nbsp; [Return to the research group](https://github.com/ZJU-HeheFan)
 
 <details>
 <summary>About the collection and verification</summary>
