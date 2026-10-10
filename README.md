@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://github.com/ZJU-HeheFan">Group home</a> &nbsp;&middot;&nbsp; <a href="https://hehefan.github.io/">Hehe Fan</a> &nbsp;&middot;&nbsp; <a href="https://hehefan.github.io/publications/">Advisor publications</a> &nbsp;&middot;&nbsp; <a href="#contribute">Add a project</a></p>
 
-Welcome to our research archive! Explore **23 public projects** in our research archive. Each record brings together the paper, first author, research focus, and available resources.
+Welcome to our research archive! Explore **24 public projects** in our research archive. Each record brings together the paper, first author, research focus, and available resources.
 
 Projects remain in their original repositories. This collection includes work first-authored by group students or Hehe Fan, released before **1 October 2026**.
 
@@ -20,7 +20,7 @@ Projects remain in their original repositories. This collection includes work fi
 <td width="50%" valign="top"><strong><a href="#llms--agents">LLMs &amp; Agents</a></strong><br>Structured reasoning, research agents, post-training, and collaboration.<br><sub>6 projects</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong><a href="#embodied-ai">Embodied AI</a></strong><br>Embodied perception and action.<br><sub>No indexed projects yet</sub></td>
+<td width="50%" valign="top"><strong><a href="#embodied-ai">Embodied AI</a></strong><br>Embodied perception and action.<br><sub>1 project</sub></td>
 <td width="50%" valign="top"><strong><a href="#ai-for-science">AI for Science</a></strong><br>Protein modeling, molecular design, generative methods, and scientific instrumentation.<br><sub>6 projects</sub></td>
 </tr>
 </table>
@@ -278,7 +278,21 @@ Graph-based coordination of multi-agent task dependencies in Minecraft.
 
 ## Embodied AI
 
-No public projects are currently indexed in this direction.
+Humanoid agents that connect language instructions, scene understanding, and physical action.
+
+<a name="project-bibo"></a>
+
+### [ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/hash/d8af9a23bf25dedfb32433597c462045-Abstract-Conference.html) &middot; BiBo
+
+**First author:** Yingzhao Jian &nbsp;&middot;&nbsp; <sub>LLMs &amp; Agents / Humanoid Agents / Motion Generation</sub>
+
+A VLM-driven humanoid agent that translates instructions into commands and executes full-body motions with physical feedback.
+
+[![Paper](https://img.shields.io/badge/Link-Paper-315f80?style=flat-square)](https://proceedings.iclr.cc/paper_files/paper/2026/hash/d8af9a23bf25dedfb32433597c462045-Abstract-Conference.html) [![arXiv](https://img.shields.io/badge/arXiv-2511.00041-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.00041) [![Repository](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Shadow-Dream/BiBo) [![Stars](https://img.shields.io/github/stars/Shadow-Dream/BiBo?style=flat-square&label=Star)](https://github.com/Shadow-Dream/BiBo)
+
+<sub>Publication verified against the official ICLR 2026 proceedings. The project repository documents its components and release checklist.</sub>
+
+[Also relevant to LLMs &amp; Agents](#llms--agents).
 
 [Back to directions](#explore-by-direction)
 

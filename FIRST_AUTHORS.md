@@ -27,3 +27,4 @@ Checked on 9 October 2026. Student names were matched to the maintainer-provided
 | SmartMage | Yue Zhang | [Paper / official project](https://arxiv.org/abs/2608.05137) |
 | DAC-DETR | Zhengdong Hu | [Paper / official project](https://proceedings.neurips.cc/paper_files/paper/2023/hash/edd0d433f8a1a51aa11237a6543fc280-Abstract-Conference.html) |
 | Deepfake Detection Generalization with Diffusion Noise | Hongyuan Qi | [Paper / official project](https://arxiv.org/abs/2604.14570) |
+| BiBo | Yingzhao Jian | [Official ICLR 2026 proceedings](https://proceedings.iclr.cc/paper_files/paper/2026/hash/d8af9a23bf25dedfb32433597c462045-Abstract-Conference.html) |
