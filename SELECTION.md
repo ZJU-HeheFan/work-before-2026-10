@@ -1,14 +1,20 @@
-# Homepage selection
+# Homepage recent-work selection
 
-Eligibility: a group student or Hehe Fan is the first author. Student identities are matched to the maintainer-provided group roster; public author order is checked against the paper or proceedings. This includes earlier work by current students.
+The organization homepage highlights public work from **2025 and 2026**, ordered by year from newest to oldest. A group student or Hehe Fan must be the first author. Student identities are matched to the maintainer-provided group roster; public author order is checked against the paper or proceedings. Earlier work remains in the full index.
 
-The homepage currently uses the six eligible projects with released implementations with the highest verified GitHub star counts. Counts are a snapshot from 9 October 2026, not a measure of scientific quality. Structured Reasoning is excluded from the homepage selection at the maintainer's request because implementation has not been released. It remains in the complete index with its actual resource status. Citation counts were not available consistently, so no citation ranking is claimed.
+This is a curated selection of recent projects with public resources and visible community interest, rather than a complete publication list or a citation ranking. GitHub stars inform selection but do not measure scientific quality. Structured Reasoning is included at the maintainer's request and is labeled **ICLR 2026**, following the official conference proceedings. Repository buttons identify project repositories; they do not by themselves claim that an implementation has been released.
 
-| Project | First author | Repository | Stars |
-| --- | --- | --- | --- |
-| P4Transformer | Hehe Fan | [hehefan/P4Transformer](https://github.com/hehefan/P4Transformer) | 196 |
-| VillagerAgent | Yubo Dong | [cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) | 183 |
-| TSGS | Mingwei Li | [longxiang-ai/TSGS](https://github.com/longxiang-ai/TSGS) | 127 |
-| PSTNet | Hehe Fan | [hehefan/Point-Spatio-Temporal-Convolution](https://github.com/hehefan/Point-Spatio-Temporal-Convolution) | 113 |
-| DAC-DETR | Zhengdong Hu | [huzhengdongcs/DAC-DETR](https://github.com/huzhengdongcs/DAC-DETR) | 64 |
-| Uni-OPD | Wenjin Hou | [WenjinHou/Uni-OPD](https://github.com/WenjinHou/Uni-OPD) | 57 |
+GitHub star snapshot: **10 October 2026**. Within each year, projects are listed by this snapshot, with ties kept in a stable order.
+
+| Project | Publication | First author | Repository | Stars |
+| --- | --- | --- | --- | ---: |
+| Structured Reasoning | ICLR 2026 | Yubo Dong | [cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning](https://github.com/cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning) | 65 |
+| Uni-OPD | arXiv 2026 | Wenjin Hou | [WenjinHou/Uni-OPD](https://github.com/WenjinHou/Uni-OPD) | 57 |
+| Stroke3D | ICLR 2026 | Ruisi Zhao | [Whalesong-zrs/Stroke3D](https://github.com/Whalesong-zrs/Stroke3D) | 36 |
+| Skill-3D | arXiv 2026 | Haoyuan Li | [skill-3d/Skill-3D](https://github.com/skill-3d/Skill-3D) | 36 |
+| TransNormal | ICML 2026 | Mingwei Li | [longxiang-ai/TransNormal](https://github.com/longxiang-ai/TransNormal) | 23 |
+| TSGS | ACM MM 2025 | Mingwei Li | [longxiang-ai/TSGS](https://github.com/longxiang-ai/TSGS) | 127 |
+| Zero-1-to-A | CVPR 2025 | Zhenglin Zhou | [ZhenglinZhou/Zero-1-to-A](https://github.com/ZhenglinZhou/Zero-1-to-A) | 43 |
+| Reaction Graph | ICML 2025 | Yingzhao Jian | [Shadow-Dream/Reaction-Graph](https://github.com/Shadow-Dream/Reaction-Graph) | 16 |
+
+For broader coverage, browse the [complete project index](README.md) or [Hehe Fan's publications](https://hehefan.github.io/publications/).
